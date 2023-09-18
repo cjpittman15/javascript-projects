@@ -1,5 +1,5 @@
 // Initialize Variables below
-let Monday = '2019-03-18';
+let Monday = 'Monday 2019-03-18';
 time = '10:05:34 AM';
 astronautCount = 7;
 astronautStatus = 'ready';
